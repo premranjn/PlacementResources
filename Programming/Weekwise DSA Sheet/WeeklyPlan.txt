@@ -1,0 +1,48 @@
+
+
+Week 0
+-> Learn a language (c++ or java or python)
+-> Practice basic questions in that language (using hackerrank)
+
+
+Week 1
+-> STL & Maths
+-> 1D Array
+
+
+Week 2
+-> 2D Array
+-> OOPs
+
+
+Week 3 & 4
+-> Linked List
+
+
+Week 5
+-> Searching & Sorting
+-> OS
+
+
+Week 6
+-> Tree
+
+
+Week 7 & 8
+-> Graph
+
+
+Week 9
+-> Dynamic Programming
+
+
+Week 10
+-> Stack, Queue, Heaps
+-> Greedy
+
+
+Week 11
+-> Strings
+-> Divide & Conquer
+-> Bit Manipulation
+
